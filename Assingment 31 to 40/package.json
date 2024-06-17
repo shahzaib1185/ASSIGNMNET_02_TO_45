@@ -1,0 +1,11 @@
+{
+  "name": "assingment-31-to-40",
+  "version": "1.0.0",
+  "description": "Assingment Q31 TO Q40 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1601185",
+  "license": "MIT"
+}

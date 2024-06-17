@@ -1,0 +1,12 @@
+{
+  "name": "assingment-41-to-45",
+  "version": "1.0.0",
+  "description": "assigment 21 to 45",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1601185",
+  "license": "MIT"
+}

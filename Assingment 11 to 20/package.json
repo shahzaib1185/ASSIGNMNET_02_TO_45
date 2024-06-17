@@ -1,0 +1,11 @@
+{
+  "name": "assingment-11-to-20",
+  "version": "1.0.0",
+  "description": "Assingment Q11 to Q20",
+  "main": "assig_11-to-20.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1601185",
+  "license": "MIT"
+}
